@@ -1,2 +1,2 @@
-# project-GSAP
-this is a demo website project using by gsap
+# fanta
+This is for my youtube channel tutorial.
